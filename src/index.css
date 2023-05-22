@@ -1,0 +1,25 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background-color: #0B2434;
+  height: 100vh;
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+}
+
+main {
+  margin-top: 40px;
+  background-color: #F5F5F5;
+  max-width: 800px;
+  padding: 40px;
+  border-radius: 5px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
