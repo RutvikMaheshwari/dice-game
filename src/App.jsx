@@ -71,6 +71,7 @@ function App() {
       setTenzies(false);
       setDice(allNewDice());
       setCount(0);
+      setTime(0);
     }
   };
 
